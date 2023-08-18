@@ -1,0 +1,155 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.all{
+    border: 2px solid red;
+    height: 100vh;
+    /* background-image: url(./img/Background\ \(2\).png); */
+}
+.background{
+    background-image: url(./img/Background\ \(2\).png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 2000px;
+}
+.header{
+    border: 2px solid blue;
+    height: 100px;
+    display: flex;
+}
+.icon{
+    border: 2px solid green;
+    height: 100px;
+    width: 100px;
+}
+.background_icon{
+    background-image: url(./img/icons8-html-5-50.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    
+} 
+.manu{
+    border: 2px solid red;
+    height: 100px;
+    width: 1757px;
+    display: flex;
+    justify-content: end;
+    align-items: center ;
+}
+.manu_centre{
+    border: 2px solid red;
+    height: 50px;
+    width: 800px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home{
+    border: 2px solid blue;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home1{
+  color: black;
+}
+.About{
+    border: 2px solid blue;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.About1{
+    color: black;
+}
+.html{
+    border: 2px solid blue;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.html1{
+    color: black;
+}
+.History{
+    border: 2px solid blue;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.History1{
+    color: black;
+}
+.css{
+    border: 2px solid blue;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.css1{
+    color: black;
+}
+.scss{
+    border: 2px solid blue;
+    height: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.scss1{
+    color: black;
+}
+
+.about_programer{
+    border: 2px solid red;
+    height: 100vh; 
+}
+.header_about{
+    border: 2px solid red;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.programer_img_and_text{
+    border: 2px solid blue;
+    height: 833px;
+    display: flex;
+}
+.Programer_img{
+    border: 2px solid red;
+height: 338px;
+width: 504px;
+}
+.Programer_img_1{
+    background-image: url(./img/obuchenie-it-spetsialnostyam.jpg);
+    background-repeat: no-repeat;
+    background-size: 500px;
+}
+.programer_text{
+    border: 2px solid green;
+    width: 1400px;
+}
+.div1{
+    border: 2px solid green;
+    size: 500px;
+
+}
+.Programer_img_2{
+   border: 2px solid blue;
+   height: 487px;
+}
